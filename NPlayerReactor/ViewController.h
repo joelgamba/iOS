@@ -10,4 +10,8 @@
 
 @interface ViewController : UIViewController
 
+
+- (void)displayWinner;
+
 @end
+
